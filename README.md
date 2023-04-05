@@ -1,0 +1,2 @@
+# PythonTrashcan
+Ya posral bebra
